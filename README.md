@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fredrickmugish
+- 👀 I’m interested in ...Jogging and football
+- 🌱 I’m currently learning ...laravel framework
+- 💞️ I’m looking to collaborate on ...upcoming projects
+- 📫 How to reach me:hellofredrickmugish@gmail.com
